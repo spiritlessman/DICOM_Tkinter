@@ -1,0 +1,4 @@
+## Python cache
+*.pyc
+## IDE
+*.idea
